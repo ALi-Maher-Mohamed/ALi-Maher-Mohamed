@@ -1,56 +1,109 @@
-# 👋 Hi there, I'm Ali Maher Mohamed Hasan
-
-## 👨‍💻 Flutter Developer | CS graduate | Instructor at iSchool
-
-🎓 I'm a 4th-year Computer Science student at the Faculty of Computer Science & AI, Sohag University.  
-🚀 I specialize in building responsive, scalable, and beautiful mobile applications using **Flutter**.  
-🎯 I’m passionate about clean code, modern UI/UX, and solving real-world problems through tech.  
-📚 Currently working on my graduation project **MediCare** – a mobile and web-based platform to help users book doctors and access trusted medical services.
+# Ali Maher Mohamed Hasan
+## Flutter Developer • Computer Science Graduate • Tech Instructor
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🎯 **About Me**
 
-- **Languages**: Dart, Python, Java
-- **Frameworks**: Flutter
-- **State Management**: Bloc, Cubit
-- **Backend**: Firebase, REST APIs
-- **Tools**: Git & GitHub, VS Code, Android Studio
-- **Others**: Clean Architecture, MVVM, UI/UX Design
+I'm a passionate Flutter developer and 4th-year Computer Science student at the Faculty of Computer Science & AI, Sohag University. With a strong foundation in mobile development and a keen eye for modern UI/UX design, I specialize in creating responsive, scalable, and visually stunning mobile applications.
+
+Currently developing **MediCare** – an innovative healthcare platform that bridges the gap between patients and medical professionals through seamless digital experiences.
 
 ---
 
-## 🔥 Featured Projects
+### 💼 **Professional Experience**
 
-| Project | Description |
-|--------|-------------|
-| 📚 [Bookly App](https://github.com/ALi-Maher-Mohamed) | A book app using Flutter with MVVM, Cubit, and Firebase auth. |
-| 🛒 Store App | E-commerce app with product browsing and secure purchase flow. |
-| 🏥 MediCare (Graduation Project) | Full medical booking system with doctor profiles, ratings, and appointments. |
-| 📝 Notes App | Create, categorize, and manage notes with a clean UI. |
-| 🌦️ Weather App | Real-time weather updates based on your location. |
-| 🎹 Piano App | A fun, interactive piano simulator using Flutter. |
-| 📰 News App | Displays up-to-date news articles from multiple sources. |
-| 📊 Responsive Dashboard | Admin panel with responsive layout across devices. |
+**Tech Instructor** | *iSchool, Ashbal Misr & Baraem Misr Digital Initiatives*
+- Teaching Flutter development and programming fundamentals to students aged 8-18
+- Mentoring the next generation of developers in mobile app development
+- Creating engaging curriculum for youth programming education
+
+**ICPC Competitor** | *Problem-Solving Enthusiast*
+- Active participant in competitive programming competitions
+- Strong algorithmic thinking and optimization skills
 
 ---
 
-## 📫 Connect with Me
+### 🛠️ **Technical Expertise**
 
-- 📧 Email: ali.maher0013@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/ali-maher-b59904223)  
-- 🧑‍💻 [GitHub](https://github.com/ALi-Maher-Mohamed)
+#### **Core Technologies**
+- **Languages:** Dart, Python, Java
+- **Framework:** Flutter (Advanced)
+- **State Management:** BLoC Pattern, Cubit
+- **Architecture:** Clean Architecture, MVVM
+
+#### **Development Tools & Platforms**
+- **Backend Integration:** Firebase, REST APIs
+- **Development Environment:** VS Code, Android Studio
+- **Version Control:** Git, GitHub
+- **UI/UX:** Material Design, Custom Animations
 
 ---
 
-## 💬 A little more about me
+### 🚀 **Featured Projects**
 
-- 👨‍🏫 Instructor at iSchool, Ashbal Misr & Baraem Misr Digital Initiatives – teaching Flutter & programming to students aged 8–18  
-- 🧠 ICPC Competitor & problem-solving enthusiast  
-- 🎨 I love crafting beautiful and user-friendly mobile experiences  
-- 🌱 Always learning and exploring new trends in mobile development
+#### **🏥 MediCare** *(Graduation Project)*
+*Comprehensive Healthcare Platform*
+- Full-stack medical booking system with doctor profiles and appointment management
+- Patient rating system and medical service directory
+- Cross-platform mobile and web implementation
+
+#### **📚 Bookly App**
+*Digital Reading Platform*
+- Clean architecture implementation with MVVM pattern
+- Firebase authentication and cloud storage
+- Cubit state management for optimal performance
+- [View Repository →](https://github.com/ALi-Maher-Mohamed)
+
+#### **🛒 E-Commerce Store App**
+*Complete Shopping Solution*
+- Product catalog with advanced filtering and search
+- Secure payment integration and order management
+- Responsive design across all device sizes
+
+#### **Additional Projects**
+- **📝 Notes App** - Intuitive note-taking with categorization
+- **🌦️ Weather App** - Location-based real-time weather updates
+- **🎹 Piano Simulator** - Interactive musical experience
+- **📰 News Aggregator** - Multi-source news platform
+- **📊 Admin Dashboard** - Responsive management panel
 
 ---
 
-> 💡 *"Passionate about building clean, scalable, and user-friendly mobile apps."*
+### 🎓 **Education & Achievements**
 
+**Bachelor of Computer Science & Artificial Intelligence**  
+*Sohag University* | *Expected 2024*
+
+**Key Achievements:**
+- ICPC Programming Competition Participant
+- Flutter Development Certification
+- Youth Programming Education Specialist
+
+---
+
+### 📈 **Core Competencies**
+
+- **Mobile Development:** Cross-platform app development with Flutter
+- **Problem Solving:** Algorithmic thinking and optimization
+- **UI/UX Design:** Modern, user-centered design principles
+- **Teaching:** Technical instruction and mentorship
+- **Architecture:** Scalable, maintainable code structures
+
+---
+
+### 🌟 **What Drives Me**
+
+*"I believe technology should enhance human experiences, not complicate them. Every line of code I write aims to create intuitive, beautiful, and impactful solutions that make a real difference in people's lives."*
+
+---
+
+### 📬 **Let's Connect**
+
+- **Email:** [ali.maher0013@gmail.com](mailto:ali.maher0013@gmail.com)
+- **LinkedIn:** [Ali Maher Mohamed](https://linkedin.com/in/ali-maher-b59904223)
+- **GitHub:** [@ALi-Maher-Mohamed](https://github.com/ALi-Maher-Mohamed)
+
+---
+
+*Currently seeking opportunities in mobile development where I can contribute my passion for creating exceptional user experiences and scalable applications.*
