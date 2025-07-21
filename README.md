@@ -1,65 +1,56 @@
-# 👋 Hi, I'm Ali Maher Mohamed Hasan!
+# 👋 Hi there, I'm Ali Maher Mohamed Hasan
 
-Welcome to my GitHub profile! I'm a **Flutter Developer** and a **4th-year student at the Faculty of Computer Science & AI, Sohag University**, expected to graduate in 2025. I have a passion for creating responsive, adaptive, and user-friendly mobile applications.
+## 👨‍💻 Flutter Developer | CS graduate | Instructor at iSchool
 
----
-
-## 🌟 About Me
-- 🖥️ **Part-time Instructor at iSchool** (since May 2024), teaching coding and advanced technology tracks like AI, mobile development, machine learning, and web development to young learners.
-- 🎓 Enthusiastic learner with certifications in:
-  - **Flutter & Dart** from Udemy.
-  - **Flutter Advanced & MVVM** from Udemy.
-  - **Responsive and Adaptive Flutter Development**.
-  - **ICPC Certification**.
-- 🏆 Team player currently working on an exciting **graduation project**.
+🎓 I'm a 4th-year Computer Science student at the Faculty of Computer Science & AI, Sohag University.  
+🚀 I specialize in building responsive, scalable, and beautiful mobile applications using **Flutter**.  
+🎯 I’m passionate about clean code, modern UI/UX, and solving real-world problems through tech.  
+📚 Currently working on my graduation project **MediCare** – a mobile and web-based platform to help users book doctors and access trusted medical services.
 
 ---
 
-## 🛠️ Skills
-- **Languages & Frameworks**: Dart, Flutter, Firebase.
-- **Tools**: Git, GitHub, Android Studio, Visual Studio Code.
-- **Architectures & Patterns**: MVVM, Cubit for state management.
-- **Other Skills**: API integration, animation, responsive design, cached images.
+## 🛠️ Tech Stack & Tools
+
+- **Languages**: Dart, Python, Java
+- **Frameworks**: Flutter
+- **State Management**: Bloc, Cubit
+- **Backend**: Firebase, REST APIs
+- **Tools**: Git & GitHub, VS Code, Android Studio
+- **Others**: Clean Architecture, MVVM, UI/UX Design
 
 ---
 
-## 🚀 Projects
-### 🔹 [Bookly App](https://github.com/ALi-Maher-Mohamed/Bookly-App)
-A book-based application built with:
-- **MVVM architecture**.
-- State management using **Cubit**.
-- API integration, **Firebase Authentication**, animations, and more.
+## 🔥 Featured Projects
 
-### 🔹 [BMI App](https://github.com/ALi-Maher-Mohamed/BMI-App)
-A mobile app that calculates and displays a user's Body Mass Index based on their height and weight.
-
-### 🔹 [Notes App](https://github.com/ALi-Maher-Mohamed/Notes-App)
-A user-friendly app for managing text-based notes, featuring:
-- Categorization and search options.
-- Syncing across devices.
-
-### 🔹 [Store App](https://github.com/ALi-Maher-Mohamed/Store-App)
-An e-commerce app enabling:
-- Browsing and purchasing products.
-- Secure payment integration.
-- Real-time database syncing for inventory and orders.
-
-### 🔹 [Responsive Dashboard](https://github.com/ALi-Maher-Mohamed/Responsive-Dashboard)
-A dashboard application designed with responsiveness in mind for seamless use across devices.
-
-### 🔹 [News App](https://github.com/ALi-Maher-Mohamed/News-App)
-Displays real-time news articles using APIs with a modern UI.
+| Project | Description |
+|--------|-------------|
+| 📚 [Bookly App](https://github.com/ALi-Maher-Mohamed) | A book app using Flutter with MVVM, Cubit, and Firebase auth. |
+| 🛒 Store App | E-commerce app with product browsing and secure purchase flow. |
+| 🏥 MediCare (Graduation Project) | Full medical booking system with doctor profiles, ratings, and appointments. |
+| 📝 Notes App | Create, categorize, and manage notes with a clean UI. |
+| 🌦️ Weather App | Real-time weather updates based on your location. |
+| 🎹 Piano App | A fun, interactive piano simulator using Flutter. |
+| 📰 News App | Displays up-to-date news articles from multiple sources. |
+| 📊 Responsive Dashboard | Admin panel with responsive layout across devices. |
 
 ---
 
-## 📫 Let's Connect!
-- **Email**: [ali.maher0013@gmail.com](mailto:ali.maher0013@gmail.com)
-- **LinkedIn**: [Ali Maher](https://www.linkedin.com/in/ali-maher-b59904223)
-- **GitHub**: [ALi-Maher-Mohamed](https://github.com/ALi-Maher-Mohamed)
+## 📫 Connect with Me
+
+- 📧 Email: ali.maher0013@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/ali-maher-b59904223)  
+- 🧑‍💻 [GitHub](https://github.com/ALi-Maher-Mohamed)
 
 ---
 
-## 💡 Fun Fact
-I love teaching young minds, solving complex coding problems, and continuously learning to stay ahead in the ever-evolving tech industry.
+## 💬 A little more about me
 
-Feel free to explore my repositories and connect for any collaboration or project ideas!
+- 👨‍🏫 Instructor at iSchool, Ashbal Misr & Baraem Misr Digital Initiatives – teaching Flutter & programming to students aged 8–18  
+- 🧠 ICPC Competitor & problem-solving enthusiast  
+- 🎨 I love crafting beautiful and user-friendly mobile experiences  
+- 🌱 Always learning and exploring new trends in mobile development
+
+---
+
+> 💡 *"Passionate about building clean, scalable, and user-friendly mobile apps."*
+
