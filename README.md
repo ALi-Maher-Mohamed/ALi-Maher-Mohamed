@@ -1,9 +1,9 @@
 <div align="center">
   
 # 🚀 Hi there, I'm Ali Maher Mohamed Hasan
-## 💻 Flutter Developer | 🎓 CS Graduate | 👨‍🏫 Tech Instructor
+## 💻 Software Engineer | 🎓 CS & AI Graduate | 🌐 Full-Stack Developer (MERN)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Developer;CS+Graduate+from+Sohag+University;Tech+Instructor+at+iSchool;ICPC+Competitor;Problem+Solving+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;CS+%26+AI+Graduate+from+Sohag+University;ITI+Professional+Program+Graduate;Software+Engineer+%7C+MERN+Stack;Problem+Solving+Enthusiast" alt="Typing SVG" />
 
 ---
 
@@ -12,14 +12,19 @@
 ```typescript
 const aliMaher = {
     location: "Sohag, Egypt 🇪🇬",
-    education: "Computer Science & AI Graduate - Sohag University",
-    status: "Fresh Graduate 2024",
-    currentFocus: "Mobile Development with Flutter",
-    currentProject: "MediCare - Healthcare Platform",
-    teachingAt: ["iSchool", "Ashbal Misr", "Baraem Misr"],
-    languages: ["Dart", "Python", "Java"],
-    hobbies: ["Competitive Programming", "UI/UX Design", "Teaching"],
-    lookingFor: "Flutter Developer Opportunities"
+    education: {
+        degree: "Bachelor of Computer Science & AI",
+        university: "Sohag University",
+        graduationDate: "June 2025",
+        gpa: "Very Good (جيد جداً)"
+    },
+    currentFocus: "Full-Stack Web Development & Mobile Development",
+    currentTraining: "ITI 9-Months Professional Program (Advanced MERN Stack)",
+    specialization: ["React", "Next.js", "Node.js", "NestJS", "MongoDB"],
+    teachingAt: ["Udacity", "Al-Mentor", "iSchool", "Ashbal Misr"],
+    languages: ["JavaScript/TypeScript", "Python", "Java", "Dart"],
+    hobbies: ["Competitive Programming", "UI/UX Design", "Mentoring", "Open Source"],
+    lookingFor: "Junior Software Engineer Opportunities (Full-Stack / Frontend)"
 };
 ```
 
@@ -29,27 +34,37 @@ const aliMaher = {
 
 <div align="center">
 
+### 🌐 **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ **Databases & ORMs**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
 ### 📱 **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🗂️ **State Management**
-![BLoC](https://img.shields.io/badge/BLoC-3DDC84?style=for-the-badge&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-FF6B35?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🔧 **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### ☁️ **Backend & Database**
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=rest&logoColor=white)
-
-### 🛠️ **Development Tools**
+### 🛠️ **Development Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 💳 **Payment & Integration**
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -59,42 +74,54 @@ const aliMaher = {
 
 <div align="center">
 
-| 🏥 **MediCare** | 📚 **Bookly App** | 🛒 **Store App** |
+| 🏥 **MediCare** | 🚀 **Kernel Tech** | 📚 **Bookly App** |
 |:---:|:---:|:---:|
-| Healthcare Platform | Digital Library | E-Commerce Solution |
-| `Flutter` `Firebase` `Clean Architecture` | `MVVM` `Cubit` `Firebase Auth` | `REST APIs` `Payment Integration` |
-| [🔗 View Project](#) | [🔗 View Project](https://github.com/ALi-Maher-Mohamed) | [🔗 View Project](#) |
+| Healthcare Platform | Non-Profit Platform | Digital Library |
+| `Flutter` `Firebase` `Clean Architecture` | `MERN` `Advanced Features` | `MVVM` `Cubit` `Firebase Auth` |
+| Graduation Project | Production-Ready | E-Commerce |
+| [🔗 View Project](#) | [🔗 View Project](#) | [🔗 View Project](#) |
 
-| 📝 **Notes App** | 🌦️ **Weather App** | 🎹 **Piano App** |
+| 🛒 **Full-Stack E-Commerce** | 💬 **Real-Time Chat App** | 🌐 **Modern Web Platform** |
 |:---:|:---:|:---:|
-| Note Management | Weather Forecast | Interactive Piano |
-| `Local Storage` `Clean UI` | `Location APIs` `Real-time` | `Sound Effects` `Animations` |
+| Complete E-Commerce Solution | Interactive Communication | Scalable Web App |
+| `Next.js` `Stripe` `NestJS` `MongoDB` | `React` `WebSockets` `Node.js` | `React` `TypeScript` `Tailwind` |
+| Production-Ready | Advanced Features | Best Practices |
 | [🔗 View Project](#) | [🔗 View Project](#) | [🔗 View Project](#) |
 
 </div>
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 **Professional Experience & Training**
 
 ```yaml
-👨‍🏫 Tech Instructor:
-  organizations: [iSchool, Ashbal Misr, Baraem Misr Digital Initiatives]
-  students_age: 8-18 years
-  subjects: [Flutter Development, Programming Fundamentals]
-  impact: Teaching next generation of developers
+🎓 ITI 9-Months Professional Program:
+  status: Currently Enrolled
+  focus: Full-Stack Web Development (MERN Stack)
+  level: Advanced
+  duration: 2025 - Present
+  curriculum: React, Next.js, Node.js, NestJS, MongoDB, TypeScript
+  impact: Intensive professional-grade training from industry experts
+
+👨‍🏫 Tech Mentor & Instructor:
+  platforms: [Udacity, Al-Mentor, iSchool, Ashbal Misr]
+  students_age: 8-20+ years
+  subjects: [Full-Stack Development, Frontend, Backend, Mobile Development]
+  impact: Mentoring next generation of software engineers
   duration: 2023 - Present
 
-🎓 Fresh Graduate:
-  degree: Bachelor of Computers & AI
+🎓 Academic Achievement:
+  degree: Bachelor of Computer Science & AI
   university: Sohag University
-  graduation_year: 2025
-  status: Seeking Flutter Developer opportunities
+  graduation: June 2025
+  gpa: Very Good (جيد جداً)
+  thesis: Advanced Healthcare Platform (MediCare)
 
-🏆 ICPC Competitor:
-  focus: Competitive Programming
-  skills: [Algorithm Design, Problem Solving, Optimization]
-  achievements: Active participant in programming contests
+🏆 Competitive Programming:
+  focus: Algorithm Design & Problem Solving
+  experience: ICPC participant
+  skills: [Data Structures, Algorithms, Optimization]
+  achievements: Active problem solver on competitive platforms
 ```
 
 ---
@@ -112,47 +139,63 @@ const aliMaher = {
 
 ---
 
-## 🎓 **Education & Achievements**
+## 🎓 **Education & Certifications**
 
 <div align="center">
 
-| 🎯 **Degree** | 🏛️ **University** | 📅 **Year** | 🏆 **Achievements** |
+| 🎯 **Program/Degree** | 🏛️ **Institution** | 📅 **Duration** | 🏆 **Achievement** |
 |:---:|:---:|:---:|:---:|
-| Computer Science & AI | Sohag University | 2024 Graduate | ICPC Participant |
-| Flutter Development | Self-taught | 2022-Present | 10+ Projects Completed |
-| Teaching Certification | iSchool | 2023 | Youth Education Specialist |
+| ITI 9-Months Program | ITI (Information Technology Institute) | 2025-Present | Advanced MERN Stack |
+| Bachelor in CS & AI | Sohag University | 2021-2025 | Graduated with "Very Good" Grade |
+| Flutter Development | Self-taught + iSchool | 2022-2024 | 10+ Projects Completed |
+| Full-Stack Web Dev | Self-taught + Udacity | 2024-Present | Production-Ready Apps |
+| Teaching Certification | Multiple Platforms | 2023-Present | Certified Tech Mentor |
 
 </div>
 
 ---
 
-## 🎯 **Core Skills**
+## 🎯 **Core Competencies**
 
 <div align="center">
 
 ```mermaid
 mindmap
   root((Ali Maher))
+    Full-Stack Development
+      Frontend (React & Next.js)
+      Backend (Node.js & NestJS)
+      Database Design (MongoDB)
+      API Development
+      Authentication & Security
+    Frontend Mastery
+      React Hooks & Context
+      Next.js Advanced Features
+      TypeScript Proficiency
+      Responsive Design
+      State Management
+    Backend Excellence
+      RESTful API Design
+      Database Optimization
+      Server-side Logic
+      Authentication Systems
+      Scalable Architecture
+    Problem Solving
+      Algorithms & Data Structures
+      Competitive Programming
+      System Design
+      Optimization Techniques
+    Teaching & Mentorship
+      Knowledge Transfer
+      Curriculum Development
+      Code Review & Feedback
+      Youth Empowerment
+      Community Building
     Mobile Development
       Flutter Framework
       Cross-platform Apps
-      UI/UX Design
       State Management
-    Problem Solving
-      Algorithms
-      Data Structures
-      Competitive Programming
-      ICPC Experience
-    Teaching
-      Youth Education
-      Programming Fundamentals
-      Mentorship
-      Curriculum Development
-    Architecture
-      Clean Architecture
-      MVVM Pattern
-      Scalable Solutions
-      Best Practices
+      UI/UX Implementation
 ```
 
 </div>
@@ -163,14 +206,16 @@ mindmap
 
 <div align="center">
 
-> 💡 **"I believe technology should enhance human experiences, not complicate them. Every line of code I write aims to create intuitive, beautiful, and impactful solutions that make a real difference in people's lives."**
+> 💡 **"I believe in building scalable, maintainable solutions that solve real-world problems. Every line of code I write follows best practices and contributes to creating intuitive, beautiful, and impactful digital experiences that genuinely improve people's lives."**
 
 ### 🎯 **I Focus On:**
-- ✨ **Quality**: Clean, maintainable code
-- 🎨 **Design**: Modern, attractive user interfaces  
-- 🚀 **Performance**: Fast, optimized applications
-- 📱 **Experience**: User-friendly and accessible
-- 🧠 **Learning**: Staying updated with latest technologies
+- ✨ **Quality**: Clean, maintainable, production-ready code
+- 🎨 **Design**: Modern, attractive, user-centric interfaces  
+- 🚀 **Performance**: Fast, optimized, scalable applications
+- 📱 **Experience**: Seamless, accessible user experiences
+- 🧠 **Learning**: Staying at the forefront of technology
+- 🤝 **Collaboration**: Strong teamwork and communication
+- 📚 **Mentorship**: Sharing knowledge with the community
 
 </div>
 
@@ -181,99 +226,120 @@ mindmap
 <div align="center">
 
 ### 🏥 **Overview**
-A comprehensive healthcare platform designed to connect patients with doctors through a seamless digital experience
+A comprehensive healthcare platform designed to revolutionize patient-doctor interactions through a seamless digital experience. Combines cutting-edge mobile development with clean architecture principles.
 
-| 🎯 **Objective** | ⚡ **Technologies** | 📱 **Features** |
+| 🎯 **Objective** | ⚡ **Technologies** | 📱 **Key Features** |
 |:---:|:---:|:---:|
-| Improve Healthcare Access | Flutter, Firebase | Doctor Appointments |
-| Connect Patients & Doctors | Clean Architecture | Doctor Ratings & Reviews |
-| Enhanced User Experience | State Management | Medical Reports Management |
+| Improve Healthcare Access | Flutter, Firebase | Doctor Appointments Booking |
+| Connect Patients & Doctors | Clean Architecture | Advanced Doctor Ratings & Reviews |
+| Enhanced UX | State Management (BLoC) | Digital Medical Reports |
+| Real-time Notifications | Push Notifications | User-friendly Dashboard |
 
-### 🔄 **Development Phases**
+### 🔄 **Development Status**
 ```
 🔵 Planning & Design ✅
 🔵 UI/UX Development ✅  
-🟡 Backend Integration 🔄
-⚪ Testing & Deployment ⏳
-⚪ Launch & Maintenance ⏳
+🔵 Backend Integration ✅
+🟡 Testing & Refinement 🔄
+⚪ Production Deployment ⏳
 ```
 
 </div>
 
 ---
 
-## 📈 **My Development Journey**
+## 📈 **Professional Journey**
 
 <div align="center">
 
 ### 📅 **Timeline**
 ```
-2021 🎯 Started Programming Journey
-2022 📱 Learned Flutter & Dart
-2023 👨‍🏫 Started Teaching at iSchool
-2024 🏥 Developed MediCare Project
-2024 🎓 Graduated with CS & AI Degree
-2024 🔍 Seeking Flutter Developer Role
+2021 🎯 Started Programming Journey with Java & Python
+2022 📱 Mastered Flutter & Dart, Built 10+ Mobile Apps
+2023 👨‍🏫 Started Teaching at iSchool, Ashbal Misr
+2024 🌐 Transitioned to Full-Stack Development (MERN)
+2024 🏥 Developed MediCare Graduation Project
+2025 🎓 Graduated with CS & AI Degree (Very Good)
+2025 🚀 Enrolled in ITI Advanced Professional Program
+2025 🔍 Seeking Junior Software Engineer Role
 ```
 
-### 💪 **Strengths**
-- 🧠 **Problem Solving**: ICPC experience and competitive programming
-- 🎨 **Creativity**: Designing attractive user interfaces
-- 👥 **Teaching**: Sharing knowledge with next generation
-- 🚀 **Passion**: Love for learning and continuous development
-- 🎯 **Focus**: Dedicated to mobile development excellence
+### 💪 **Key Strengths**
+- 🧠 **Full-Stack Expertise**: MERN Stack mastery with production-ready applications
+- 🎨 **Creative Problem Solver**: ICPC experience and competitive programming background
+- 🌟 **UI/UX Conscious**: Designing beautiful and functional user interfaces
+- 👥 **Effective Mentor**: Teaching and guiding next generation developers
+- 🚀 **Growth Mindset**: Continuous learning and staying updated with technology trends
+- 🎯 **Dedicated Professional**: Committed to writing clean, scalable code
+- 📊 **Data-Driven**: Leveraging analytics and user feedback for better solutions
 
 </div>
 
 ---
 
-## 🎯 **Current Status & Goals**
+## 🎯 **Current Status & Career Goals**
 
 <div align="center">
 
 ### 🔍 **Currently**
-- 📱 **Seeking**: Flutter Developer opportunities
-- 🏗️ **Building**: Portfolio of mobile applications
-- 📚 **Learning**: Advanced Flutter techniques
-- 👨‍🏫 **Teaching**: Programming to young developers
+- 🎓 **Training**: Enrolled in ITI 9-Months Professional Program (Advanced MERN Stack)
+- 🌐 **Building**: Production-ready full-stack web applications
+- 📚 **Mastering**: Advanced TypeScript, NestJS, and scalable architecture patterns
+- 👨‍🏫 **Mentoring**: Teaching full-stack development on Udacity and Al-Mentor
+- 🔍 **Seeking**: Junior Software Engineer opportunities with growth potential
 
-### 🎯 **Goals for 2024**
-- ✅ Graduate with CS & AI degree
-- 🎯 Land first professional Flutter developer role
-- 🚀 Launch MediCare project
-- 📈 Contribute to open-source Flutter projects
-- 🏆 Advance in competitive programming
+### 🎯 **Goals for 2025**
+- ✅ Complete ITI 9-Months Professional Program with distinction
+- 🎯 Land first professional Full-Stack Software Engineer role
+- 🚀 Deploy multiple production-grade applications to cloud platforms
+- 📈 Contribute to open-source MERN/React projects
+- 🏆 Build strong professional network in tech community
+- 💡 Develop personal brand as a versatile software engineer
+
+### 🌍 **Long-term Vision**
+- 🌟 Become a Senior Full-Stack Engineer
+- 🏢 Work with innovative tech companies (startups or established firms)
+- 🌐 Contribute to global open-source projects
+- 👥 Lead technical teams and mentor junior developers
+- 💼 Build scalable, impactful products that help millions of users
 
 </div>
 
 ---
 
-## 📞 **Let's Connect**
+## 📞 **Let's Connect & Collaborate**
 
 <div align="center">
 
-### 🤝 **Let's Connect and Build Something Amazing Together!**
+### 🤝 **Let's Build Something Extraordinary Together!**
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.maher0013@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-maher-b59904223)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALi-Maher-Mohamed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
 
-### 📧 **Contact Information**
+### 📧 **Contact & Professional Info**
 - 📱 **Location**: Sohag, Egypt 🇪🇬
-- 🎓 **Education**: Computer Science & AI Graduate - Sohag University
-- 💼 **Specialization**: Mobile App Development with Flutter
-- 🌟 **Interests**: Competitive Programming, UI/UX Design, Teaching
-- 🎯 **Status**: Fresh Graduate seeking Flutter Developer opportunities
+- 🎓 **Education**: Bachelor in Computer Science & AI (June 2025)
+- 🌟 **Current Focus**: Full-Stack Web Development (MERN Stack)
+- 💼 **Training**: ITI Advanced Professional Program (2025)
+- 💡 **Expertise**: React, Next.js, Node.js, NestJS, MongoDB, TypeScript
+- 🎯 **Status**: Fresh Graduate & ITI Trainee, Seeking Software Engineer Opportunities
+- 🏢 **Availability**: Open for Full-time / Part-time / Freelance projects
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ### 🙏 **Thanks for Visiting My Profile!**
-*If you like my work, don't forget to give ⭐ to my projects!*
+*If you like my work and find value in my projects, please give ⭐ to my repositories. Your support motivates me to keep building amazing things!*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ALi-Maher-Mohamed&color=brightgreen&style=flat-square)
+
+---
+
+**Last Updated**: February 2025 | Made with ❤️ by Ali Maher Mohamed Hasan
 
 </div>
