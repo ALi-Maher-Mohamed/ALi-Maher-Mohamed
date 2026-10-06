@@ -1,127 +1,153 @@
 <div align="center">
-  
-# 🚀 Hi there, I'm Ali Maher Mohamed Hasan
-## 💻 Software Engineer | 🎓 CS & AI Graduate | 🌐 Full-Stack Developer (MERN)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;CS+%26+AI+Graduate+from+Sohag+University;ITI+Professional+Program+Graduate;Software+Engineer+%7C+MERN+Stack;Problem+Solving+Enthusiast" alt="Typing SVG" />
+# 🚀 Hi there, I'm Ali Maher Mohamed Hasan
+## 💻 Software Engineer | Front-End Developer at Wazin | Software Engineer at Value
+### 🌐 Full-Stack Developer (MERN & Next.js) | 🎓 CS & AI Graduate
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Front-End+Developer+at+Wazin;Software+Engineer+at+Value+%7C+ERP+Modules;Full-Stack+Developer+(MERN+%26+Next.js);AI+%26+RAG+Integration+%7C+Full-Stack+Architecture;Mobile+Development+with+Flutter;CS+%26+AI+Graduate+%7C+ITI+Graduate" alt="Typing SVG" />
 
 ---
 
 ### 🎯 **About Me**
 
+</div>
+
 ```typescript
 const aliMaher = {
     location: "Sohag, Egypt 🇪🇬",
     education: {
-        degree: "Bachelor of Computer Science & AI",
+        degree: "Bachelor of Computer Science & Artificial Intelligence",
         university: "Sohag University",
         graduationDate: "June 2025",
-        gpa: "Very Good (جيد جداً)"
+        grade: "Very Good (جيد جداً)"
     },
-    currentFocus: "Full-Stack Web Development & Mobile Development",
-    currentTraining: "ITI 9-Months Professional Program (Advanced MERN Stack)",
-    specialization: ["React", "Next.js", "Node.js", "NestJS", "MongoDB"],
-    teachingAt: ["Udacity", "Al-Mentor", "iSchool", "Ashbal Misr"],
+    training: "ITI 9-Months Professional Program Graduate - Full-Stack Web Development & UI",
+    currentRoles: [
+        "Front-End Developer @ Wazin (Enterprise ERP & E-Commerce)",
+        "Software Engineer @ Value (Part-time - ERP Modules: Finance, HR, Supply Chain, CRM)",
+        "Independent AI Trainer & Contractor @ Outlier & Scale AI (Project Aether, Core Evals)"
+    ],
+    communityLeadership: "Lead & Organizer - Google Developer Groups (GDG) on Campus, Sohag University",
+    mentorship: "Tech Instructor & Mentor @ iSchool & Udacity",
+    keyExpertise: ["AI & RAG Integration", "Full-Stack Architecture", "Mobile Development (Flutter)"],
+    specialization: ["React.js", "Next.js", "TypeScript", "Node.js", "MongoDB"],
     languages: ["JavaScript/TypeScript", "Python", "Java", "Dart"],
-    hobbies: ["Competitive Programming", "UI/UX Design", "Mentoring", "Open Source"],
-    lookingFor: "Junior Software Engineer Opportunities (Full-Stack / Frontend)"
+    hobbies: ["Competitive Programming", "UI/UX Design", "Mentoring", "Open Source"]
 };
 ```
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
-
 <div align="center">
 
+## 🛠️ **Tech Stack & Tools**
+
 ### 🌐 **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### 🔧 **Backend Development**
+### 🔧 **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ **Databases & ORMs**
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-25D366?style=for-the-badge&logoColor=white)
 
-### 📱 **Mobile Development**
+### 🤖 **AI & Architecture**
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-6C47FF?style=for-the-badge&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-00A67E?style=for-the-badge&logoColor=white)
+
+### 📱 **Mobile & Design Tools**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-### 🛠️ **Development Tools & Platforms**
+### 🛠️ **Dev Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 💳 **Payment & Integration**
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
-
-## 🔥 **Featured Projects**
 
 <div align="center">
 
-| 🏥 **MediCare** | 🚀 **Kernel Tech** | 📚 **Bookly App** |
+## 🔥 **Featured Projects**
+
+| 🏛️ **LegalMind** | 📝 **BlogPro** | 🏥 **MediCare** |
 |:---:|:---:|:---:|
-| Healthcare Platform | Non-Profit Platform | Digital Library |
-| `Flutter` `Firebase` `Clean Architecture` | `MERN` `Advanced Features` | `MVVM` `Cubit` `Firebase Auth` |
-| Graduation Project | Production-Ready | E-Commerce |
+| AI Legal Assistant Web App | Full-Stack Blogging Platform | Healthcare Platform & Mobile App |
+| `MERN` `Gemini API` `RAG Architecture` `Vector Search` | `MERN` `JWT` `Admin Dashboard` `Dark Mode` `AI Post Generation` | `Flutter` `Firebase` `Clean Architecture` |
+| AI-Powered | Full-Stack | 🎓 Graduation Project |
 | [🔗 View Project](#) | [🔗 View Project](#) | [🔗 View Project](#) |
 
-| 🛒 **Full-Stack E-Commerce** | 💬 **Real-Time Chat App** | 🌐 **Modern Web Platform** |
+| 🎓 **EduFlow / Kernel Tech** | 📚 **Bookly App** | ✈️ **Tripoo** |
 |:---:|:---:|:---:|
-| Complete E-Commerce Solution | Interactive Communication | Scalable Web App |
-| `Next.js` `Stripe` `NestJS` `MongoDB` | `React` `WebSockets` `Node.js` | `React` `TypeScript` `Tailwind` |
-| Production-Ready | Advanced Features | Best Practices |
+| Educational Web Platform | Digital Library Mobile App | Travel & Booking App |
+| `MERN` `Next.js` `Tailwind CSS` | `Flutter` `MVVM` `Cubit` | `Flutter` `Supabase` |
+| Web Platform | Mobile | Mobile |
 | [🔗 View Project](#) | [🔗 View Project](#) | [🔗 View Project](#) |
 
 </div>
 
 ---
 
-## 💼 **Professional Experience & Training**
+## 💼 **Professional Experience & Leadership**
 
 ```yaml
-🎓 ITI 9-Months Professional Program:
-  status: Currently Enrolled
-  focus: Full-Stack Web Development (MERN Stack)
-  level: Advanced
-  duration: 2025 - Present
-  curriculum: React, Next.js, Node.js, NestJS, MongoDB, TypeScript
-  impact: Intensive professional-grade training from industry experts
+💻 Front-End Developer @ Wazin:
+  domain: Enterprise ERP & E-Commerce
+  focus: Scalable, performant front-end architecture
+  stack: [React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit]
+  duration: 2026 - Present
 
-👨‍🏫 Tech Mentor & Instructor:
-  platforms: [Udacity, Al-Mentor, iSchool, Ashbal Misr]
-  students_age: 8-20+ years
+🧩 Software Engineer @ Value (Part-time):
+  domain: ERP Modules
+  modules: [Finance, HR, Supply Chain, CRM]
+  duration: 2026 - Present
+
+🤖 Independent AI Trainer & Contractor @ Outlier & Scale AI:
+  projects: [Project Aether, Core Evals]
+  focus: AI model evaluation & quality
+  duration: 2026 - Present
+
+🌍 Lead & Organizer @ GDG on Campus, Sohag University:
+  role: Google Developer Groups Chapter Lead
+  impact: Building the local developer community through events and workshops
+  duration: 2026 - Present
+
+👨‍🏫 Tech Instructor & Mentor @ iSchool & Udacity:
   subjects: [Full-Stack Development, Frontend, Backend, Mobile Development]
-  impact: Mentoring next generation of software engineers
-  duration: 2023 - Present
+  duration: 2023 - 2025
+
+🎓 ITI 9-Months Professional Program (Graduate):
+  focus: Full-Stack Web Development & UI
+  curriculum: React, Next.js, Node.js, MongoDB, TypeScript
+  year: 2025
 
 🎓 Academic Achievement:
-  degree: Bachelor of Computer Science & AI
+  degree: Bachelor of Computer Science & Artificial Intelligence
   university: Sohag University
   graduation: June 2025
-  gpa: Very Good (جيد جداً)
-  thesis: Advanced Healthcare Platform (MediCare)
+  grade: Very Good (جيد جداً)
+  thesis: MediCare - Healthcare Platform
 
 🏆 Competitive Programming:
   focus: Algorithm Design & Problem Solving
-  experience: ICPC participant
+  experience: ECPC participant (2024)
   skills: [Data Structures, Algorithms, Optimization]
-  achievements: Active problem solver on competitive platforms
 ```
 
 ---
@@ -139,17 +165,16 @@ const aliMaher = {
 
 ---
 
-## 🎓 **Education & Certifications**
+## 🎓 **Education & Training**
 
 <div align="center">
 
 | 🎯 **Program/Degree** | 🏛️ **Institution** | 📅 **Duration** | 🏆 **Achievement** |
 |:---:|:---:|:---:|:---:|
-| ITI 9-Months Program | ITI (Information Technology Institute) | 2025-Present | Advanced MERN Stack |
-| Bachelor in CS & AI | Sohag University | 2021-2025 | Graduated with "Very Good" Grade |
-| Flutter Development | Self-taught + iSchool | 2022-2024 | 10+ Projects Completed |
-| Full-Stack Web Dev | Self-taught + Udacity | 2024-Present | Production-Ready Apps |
-| Teaching Certification | Multiple Platforms | 2023-Present | Certified Tech Mentor |
+| B.Sc. Computer Science & AI | Sohag University | 2021 - 2025 | Graduated with "Very Good" |
+| ITI 9-Months Professional Program | ITI (Information Technology Institute) | 2025 | Full-Stack Web Development & UI |
+| Flutter & Dart Development | Self-taught | 2022 - 2024 | Multiple mobile apps built |
+| Full-Stack Web (MERN & Next.js) | Self-taught + ITI | 2024 - Present | Production-ready applications |
 
 </div>
 
@@ -162,40 +187,38 @@ const aliMaher = {
 ```mermaid
 mindmap
   root((Ali Maher))
-    Full-Stack Development
-      Frontend (React & Next.js)
-      Backend (Node.js & NestJS)
-      Database Design (MongoDB)
-      API Development
-      Authentication & Security
-    Frontend Mastery
-      React Hooks & Context
-      Next.js Advanced Features
-      TypeScript Proficiency
-      Responsive Design
-      State Management
-    Backend Excellence
-      RESTful API Design
-      Database Optimization
-      Server-side Logic
-      Authentication Systems
-      Scalable Architecture
-    Problem Solving
-      Algorithms & Data Structures
-      Competitive Programming
-      System Design
-      Optimization Techniques
-    Teaching & Mentorship
-      Knowledge Transfer
-      Curriculum Development
-      Code Review & Feedback
-      Youth Empowerment
-      Community Building
-    Mobile Development
-      Flutter Framework
-      Cross-platform Apps
-      State Management
-      UI/UX Implementation
+    Front-End Engineering
+      React.js and Next.js
+      TypeScript
+      Redux Toolkit
+      Tailwind CSS and Material-UI
+      Enterprise ERP and E-Commerce UIs
+    Back-End and Databases
+      Node.js and Express.js
+      REST API Design
+      MongoDB
+      Supabase and Firebase
+      Authentication with JWT
+    AI and RAG Integration
+      Gemini API
+      Groq API
+      RAG Architecture
+      Vector Search
+      AI Model Evaluation
+    Mobile and Design
+      Flutter and Dart
+      Clean Architecture and MVVM
+      Cubit and BLoC
+      Figma
+      Photoshop and Illustrator
+    Enterprise Software
+      ERP Modules
+      Finance and HR
+      Supply Chain and CRM
+    Leadership and Mentorship
+      GDG Sohag University Lead
+      Tech Instructor at iSchool and Udacity
+      Competitive Programming and ECPC
 ```
 
 </div>
@@ -206,16 +229,15 @@ mindmap
 
 <div align="center">
 
-> 💡 **"I believe in building scalable, maintainable solutions that solve real-world problems. Every line of code I write follows best practices and contributes to creating intuitive, beautiful, and impactful digital experiences that genuinely improve people's lives."**
+> 💡 **"I believe in building scalable, maintainable solutions that solve real-world problems. Every line of code I write follows best practices and contributes to creating intuitive, beautiful, and impactful digital experiences."**
 
 ### 🎯 **I Focus On:**
 - ✨ **Quality**: Clean, maintainable, production-ready code
-- 🎨 **Design**: Modern, attractive, user-centric interfaces  
+- 🎨 **Design**: Modern, user-centric interfaces
 - 🚀 **Performance**: Fast, optimized, scalable applications
-- 📱 **Experience**: Seamless, accessible user experiences
-- 🧠 **Learning**: Staying at the forefront of technology
+- 🤖 **Intelligence**: Practical AI & RAG integration in real products
 - 🤝 **Collaboration**: Strong teamwork and communication
-- 📚 **Mentorship**: Sharing knowledge with the community
+- 📚 **Mentorship & Community**: Sharing knowledge through teaching and GDG
 
 </div>
 
@@ -226,23 +248,14 @@ mindmap
 <div align="center">
 
 ### 🏥 **Overview**
-A comprehensive healthcare platform designed to revolutionize patient-doctor interactions through a seamless digital experience. Combines cutting-edge mobile development with clean architecture principles.
+A healthcare platform and mobile app designed to improve patient-doctor interactions through a seamless digital experience, built with Flutter and Clean Architecture principles.
 
 | 🎯 **Objective** | ⚡ **Technologies** | 📱 **Key Features** |
 |:---:|:---:|:---:|
-| Improve Healthcare Access | Flutter, Firebase | Doctor Appointments Booking |
-| Connect Patients & Doctors | Clean Architecture | Advanced Doctor Ratings & Reviews |
+| Improve Healthcare Access | Flutter, Firebase | Doctor Appointment Booking |
+| Connect Patients & Doctors | Clean Architecture | Doctor Ratings & Reviews |
 | Enhanced UX | State Management (BLoC) | Digital Medical Reports |
-| Real-time Notifications | Push Notifications | User-friendly Dashboard |
-
-### 🔄 **Development Status**
-```
-🔵 Planning & Design ✅
-🔵 UI/UX Development ✅  
-🔵 Backend Integration ✅
-🟡 Testing & Refinement 🔄
-⚪ Production Deployment ⏳
-```
+| Real-time Updates | Push Notifications | User-friendly Dashboard |
 
 </div>
 
@@ -254,54 +267,23 @@ A comprehensive healthcare platform designed to revolutionize patient-doctor int
 
 ### 📅 **Timeline**
 ```
-2021 🎯 Started Programming Journey with Java & Python
-2022 📱 Mastered Flutter & Dart, Built 10+ Mobile Apps
-2023 👨‍🏫 Started Teaching at iSchool, Ashbal Misr
-2024 🌐 Transitioned to Full-Stack Development (MERN)
-2024 🏥 Developed MediCare Graduation Project
-2025 🎓 Graduated with CS & AI Degree (Very Good)
-2025 🚀 Enrolled in ITI Advanced Professional Program
-2025 🔍 Seeking Junior Software Engineer Role
+2021 🎓 Started B.Sc. in CS & AI at Sohag University
+2022 📱 Mobile Development with Flutter & Dart
+2023 👨‍🏫 Tech Instructor at iSchool & Udacity (2023 - 2025)
+2024 🌐 Full-Stack Web Development (MERN) & ECPC Participation
+2025 🎓 Graduated B.Sc. in CS & AI (Very Good) & Enrolled in ITI 9-Months Scholarship
+2026 💼 Front-End Developer at Wazin | Software Engineer at Value
+2026 🤖 AI Contractor at Outlier / Scale AI
+2026 🌍 Lead at GDG on Campus, Sohag University
 ```
 
 ### 💪 **Key Strengths**
-- 🧠 **Full-Stack Expertise**: MERN Stack mastery with production-ready applications
-- 🎨 **Creative Problem Solver**: ICPC experience and competitive programming background
-- 🌟 **UI/UX Conscious**: Designing beautiful and functional user interfaces
-- 👥 **Effective Mentor**: Teaching and guiding next generation developers
-- 🚀 **Growth Mindset**: Continuous learning and staying updated with technology trends
-- 🎯 **Dedicated Professional**: Committed to writing clean, scalable code
-- 📊 **Data-Driven**: Leveraging analytics and user feedback for better solutions
-
-</div>
-
----
-
-## 🎯 **Current Status & Career Goals**
-
-<div align="center">
-
-### 🔍 **Currently**
-- 🎓 **Training**: Enrolled in ITI 9-Months Professional Program (Advanced MERN Stack)
-- 🌐 **Building**: Production-ready full-stack web applications
-- 📚 **Mastering**: Advanced TypeScript, NestJS, and scalable architecture patterns
-- 👨‍🏫 **Mentoring**: Teaching full-stack development on Udacity and Al-Mentor
-- 🔍 **Seeking**: Junior Software Engineer opportunities with growth potential
-
-### 🎯 **Goals for 2025**
-- ✅ Complete ITI 9-Months Professional Program with distinction
-- 🎯 Land first professional Full-Stack Software Engineer role
-- 🚀 Deploy multiple production-grade applications to cloud platforms
-- 📈 Contribute to open-source MERN/React projects
-- 🏆 Build strong professional network in tech community
-- 💡 Develop personal brand as a versatile software engineer
-
-### 🌍 **Long-term Vision**
-- 🌟 Become a Senior Full-Stack Engineer
-- 🏢 Work with innovative tech companies (startups or established firms)
-- 🌐 Contribute to global open-source projects
-- 👥 Lead technical teams and mentor junior developers
-- 💼 Build scalable, impactful products that help millions of users
+- 🧠 **Full-Stack Expertise**: MERN & Next.js applications from database to UI
+- 🤖 **AI & RAG Integration**: Building AI-powered products with Gemini, Groq, and vector search
+- 🏢 **Enterprise Experience**: ERP modules (Finance, HR, Supply Chain, CRM) and e-commerce front-ends
+- 📱 **Cross-Platform Mobile**: Flutter apps with Clean Architecture and MVVM
+- 🌟 **UI/UX Conscious**: Figma, Photoshop, and Illustrator design skills
+- 👥 **Leader & Mentor**: GDG Sohag University lead, instructor at iSchool & Udacity
 
 </div>
 
@@ -321,25 +303,23 @@ A comprehensive healthcare platform designed to revolutionize patient-doctor int
 ---
 
 ### 📧 **Contact & Professional Info**
-- 📱 **Location**: Sohag, Egypt 🇪🇬
-- 🎓 **Education**: Bachelor in Computer Science & AI (June 2025)
-- 🌟 **Current Focus**: Full-Stack Web Development (MERN Stack)
-- 💼 **Training**: ITI Advanced Professional Program (2025)
-- 💡 **Expertise**: React, Next.js, Node.js, NestJS, MongoDB, TypeScript
-- 🎯 **Status**: Fresh Graduate & ITI Trainee, Seeking Software Engineer Opportunities
-- 🏢 **Availability**: Open for Full-time / Part-time / Freelance projects
+- 📍 **Location**: Sohag, Egypt 🇪🇬
+- 🎓 **Education**: B.Sc. Computer Science & AI, Sohag University (June 2025)
+- 💼 **Current**: Front-End Developer @ Wazin | Software Engineer @ Value
+- 🌟 **Focus**: Full-Stack (MERN & Next.js), AI & RAG Integration, Flutter
+- 💡 **Expertise**: React.js, Next.js, TypeScript, Node.js, MongoDB, Supabase, Gemini API
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ### 🙏 **Thanks for Visiting My Profile!**
-*If you like my work and find value in my projects, please give ⭐ to my repositories. Your support motivates me to keep building amazing things!*
+*If you like my work, please give ⭐ to my repositories. Your support keeps me building!*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ALi-Maher-Mohamed&color=brightgreen&style=flat-square)
 
 ---
 
-**Last Updated**: February 2025 | Made with ❤️ by Ali Maher Mohamed Hasan
+**Last Updated**: October 2026 | Made with ❤️ by Ali Maher Mohamed Hasan
 
 </div>
