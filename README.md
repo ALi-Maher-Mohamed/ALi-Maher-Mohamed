@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🚀 Hi there, I'm Ali Maher Mohamed Hasan
-## 💻 Software Engineer | Front-End Developer at Wazin 
-### 🌐 Full-Stack Developer (MERN & Next.js) | 🎓 CS & AI Graduate
+#  Hi there, I'm Ali Maher Mohamed Hasan
+##  Software Engineer | Front-End Developer at Wazin 
+###  Full-Stack Developer (MERN & Next.js) | 🎓 CS & AI Graduate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Front-End+Developer+at+Wazin;Software+Engineer+at+Value+%7C+ERP+Modules;Full-Stack+Developer+(MERN+%26+Next.js);AI+%26+RAG+Integration+%7C+Full-Stack+Architecture;Mobile+Development+with+Flutter;CS+%26+AI+Graduate+%7C+ITI+Graduate" alt="Typing SVG" />
 
 ---
 
-### 🎯 **About Me**
+###  **About Me**
 
 </div>
 
@@ -40,7 +40,7 @@ const aliMaher = {
 
 <div align="center">
 
-## 🛠️ **Tech Stack & Tools**
+##  **Tech Stack & Tools**
 
 ### 🌐 **Frontend Development**
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -64,14 +64,14 @@ const aliMaher = {
 ![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-6C47FF?style=for-the-badge&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-00A67E?style=for-the-badge&logoColor=white)
 
-### 📱 **Mobile & Design Tools**
+###  **Mobile & Design Tools**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-### 🛠️ **Dev Tools & Platforms**
+###  **Dev Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -169,7 +169,7 @@ const aliMaher = {
 
 <div align="center">
 
-| 🎯 **Program/Degree** | 🏛️ **Institution** | 📅 **Duration** | 🏆 **Achievement** |
+|  **Program/Degree** | 🏛️ **Institution** | 📅 **Duration** | 🏆 **Achievement** |
 |:---:|:---:|:---:|:---:|
 | B.Sc. Computer Science & AI | Sohag University | 2021 - 2025 | Graduated with "Very Good" |
 | ITI 9-Months Professional Program | ITI (Information Technology Institute) | 2025 | Full-Stack Web Development & UI |
@@ -180,7 +180,7 @@ const aliMaher = {
 
 ---
 
-## 🎯 **Core Competencies**
+##  **Core Competencies**
 
 <div align="center">
 
@@ -231,26 +231,26 @@ mindmap
 
 > 💡 **"I believe in building scalable, maintainable solutions that solve real-world problems. Every line of code I write follows best practices and contributes to creating intuitive, beautiful, and impactful digital experiences."**
 
-### 🎯 **I Focus On:**
-- ✨ **Quality**: Clean, maintainable, production-ready code
-- 🎨 **Design**: Modern, user-centric interfaces
-- 🚀 **Performance**: Fast, optimized, scalable applications
-- 🤖 **Intelligence**: Practical AI & RAG integration in real products
-- 🤝 **Collaboration**: Strong teamwork and communication
-- 📚 **Mentorship & Community**: Sharing knowledge through teaching and GDG
+###  **I Focus On:**
+-  **Quality**: Clean, maintainable, production-ready code
+-  **Design**: Modern, user-centric interfaces
+-  **Performance**: Fast, optimized, scalable applications
+-  **Intelligence**: Practical AI & RAG integration in real products
+-  **Collaboration**: Strong teamwork and communication
+-  **Mentorship & Community**: Sharing knowledge through teaching and GDG
 
 </div>
 
 ---
 
-## 🏆 **Graduation Project - MediCare**
+##  **Graduation Project - MediCare**
 
 <div align="center">
 
 ### 🏥 **Overview**
 A healthcare platform and mobile app designed to improve patient-doctor interactions through a seamless digital experience, built with Flutter and Clean Architecture principles.
 
-| 🎯 **Objective** | ⚡ **Technologies** | 📱 **Key Features** |
+|  **Objective** | ⚡ **Technologies** |  **Key Features** |
 |:---:|:---:|:---:|
 | Improve Healthcare Access | Flutter, Firebase | Doctor Appointment Booking |
 | Connect Patients & Doctors | Clean Architecture | Doctor Ratings & Reviews |
@@ -268,7 +268,7 @@ A healthcare platform and mobile app designed to improve patient-doctor interact
 ### 📅 **Timeline**
 ```
 2021 🎓 Started B.Sc. in CS & AI at Sohag University
-2022 📱 Mobile Development with Flutter & Dart
+2022  Mobile Development with Flutter & Dart
 2023 👨‍🏫 Tech Instructor at iSchool & Udacity (2023 - 2025)
 2024 🌐 Full-Stack Web Development (MERN) & ECPC Participation
 2025 🎓 Graduated B.Sc. in CS & AI (Very Good) & Enrolled in ITI 9-Months Scholarship
@@ -281,7 +281,7 @@ A healthcare platform and mobile app designed to improve patient-doctor interact
 - 🧠 **Full-Stack Expertise**: MERN & Next.js applications from database to UI
 - 🤖 **AI & RAG Integration**: Building AI-powered products with Gemini, Groq, and vector search
 - 🏢 **Enterprise Experience**: ERP modules (Finance, HR, Supply Chain, CRM) and e-commerce front-ends
-- 📱 **Cross-Platform Mobile**: Flutter apps with Clean Architecture and MVVM
+-  **Cross-Platform Mobile**: Flutter apps with Clean Architecture and MVVM
 - 🌟 **UI/UX Conscious**: Figma, Photoshop, and Illustrator design skills
 - 👥 **Leader & Mentor**: GDG Sohag University lead, instructor at iSchool & Udacity
 
