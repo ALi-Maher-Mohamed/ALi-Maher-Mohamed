@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Hi there, I'm Ali Maher Mohamed Hasan
-## 💻 Software Engineer | Front-End Developer at Wazin | Software Engineer at Value
+## 💻 Software Engineer | Front-End Developer at Wazin 
 ### 🌐 Full-Stack Developer (MERN & Next.js) | 🎓 CS & AI Graduate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Front-End+Developer+at+Wazin;Software+Engineer+at+Value+%7C+ERP+Modules;Full-Stack+Developer+(MERN+%26+Next.js);AI+%26+RAG+Integration+%7C+Full-Stack+Architecture;Mobile+Development+with+Flutter;CS+%26+AI+Graduate+%7C+ITI+Graduate" alt="Typing SVG" />
